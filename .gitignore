@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+# Entorno virtual
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# Variables de entorno
+.env
